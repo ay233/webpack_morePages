@@ -1,0 +1,1 @@
+console.log('i am a common plugin js!')
